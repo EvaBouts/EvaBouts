@@ -26,7 +26,7 @@ Ancienne éditrice dans une grande maison d'édition française, j'ai décidé d
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=EvaBouts&hide=stars&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
-  <summary><b>:raised_hands: &nbsp;In English</b></summary>
+  <summary><b>:globe_with_meridians: &nbsp;In English</b></summary>
   <br/> 
 I'm Eva, a new member of the developers community ! 
 Currently studying Web development with an accessibility specialisation, I will graduate in September 2024.
