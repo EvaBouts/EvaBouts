@@ -20,6 +20,10 @@ Currently studying Web development with an accessibility specialisation, I will 
 - Hiking and bike riding
 
 ### 📫 How to reach me
+
+<adress><a href="mailto:eva.bouts@orange.fr">eva.bouts@orange.fr</a>.<br></adress>
+
+
 📧 eva.bouts@orange.fr
 🔔 [Instagram](https://www.instagram.com/evapoint_/)
 
