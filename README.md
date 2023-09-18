@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Eva, a new member of the devloppers community ! Currently studying Web development with an accessibility specialisation, I will graduate in September 2024.
+I'm Eva, a new member of the developers community ! 
+Currently studying Web development with an accessibility specialisation, I will graduate in September 2024.
 
 ### 🌱 I’m currently learning
 - HTML
@@ -11,7 +12,7 @@ I'm Eva, a new member of the devloppers community ! Currently studying Web devel
 - React
 
 ### ⚡ About me
-Former publisher in a big french publishing house, I decided to switch paths to become de Web developper. The aim is to become a good in coding websites as I was in editing texts !
+**Former publisher** in a big french publishing house, I decided to switch paths to **become a Web developper**. The aim is to become a good in coding websites as I was in editing texts !
 
 ### 📚 Interests
 - Board and video games
