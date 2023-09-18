@@ -20,14 +20,13 @@ Currently studying Web development with an accessibility specialisation, I will 
 - Hiking and bike riding
 
 ### 📫 How to reach me
-
-<a href="mailto:eva.bouts@orange.fr">eva.bouts@orange.fr</a>
-
-
-📧 eva.bouts@orange.fr
+📧 <a href="mailto:eva.bouts@orange.fr">eva.bouts@orange.fr</a>
 🔔 [Instagram](https://www.instagram.com/evapoint_/)
 
 ### 📊 My stats
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=EvaBouts&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=EvaBouts&hide=stars&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<details>
+  <summary><b>:computer: &nbsp;In English</b></summary>
+  <br/> Trad
+</details>
