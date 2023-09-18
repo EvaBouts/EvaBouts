@@ -23,6 +23,8 @@ Former publisher in a big french publishing house, I decided to switch paths to 
 🔔 [Instagram](https://www.instagram.com/evapoint_/)
 
 ### 📊 My stats
-[![Eva's GitHub stats](https://github-readme-stats.vercel.app/apiEvaBouts&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=EvaBouts)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Eva's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvaBouts&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
