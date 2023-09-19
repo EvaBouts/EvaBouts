@@ -3,26 +3,18 @@ Je suis Eva, nouvelle membre de la communauté des développeurs !
 Actuellement en formation de développement Web avec une spécialisation en accessibilité, je serai diplômée en septembre 2024.
 
 ### 🌱 Ce que je suis en train d'apprendre
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Node.js
-- React
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 ### ⚡ À propos de moi
-Ancienne éditrice dans une grande maison d'édition française, j'ai décidé de changer de voie pour devenir développeuse Web. Le but étant de devenir aussi douée pour coder des sites que je l'étais pour éditer des textes 💁‍♀️
+**Ancienne éditrice** dans une grande maison d'édition, j'ai décidé de changer de voie pour **devenir développeuse Web**.
 
-### 📚 Centres d'intérêts
-- Jeux de société et jeux vidéo
-- Lecture (littérature classique et culture pop)
-- Randonnée et voyages à vélo
+### 📚 Centres d'intérêt
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/books.png" alt="books"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-board-games-stay-at-home-flaticons-flat-flat-icons.png" alt="external-board-games-stay-at-home-flaticons-flat-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-video-games-stay-at-home-flaticons-flat-flat-icons.png" alt="external-video-games-stay-at-home-flaticons-flat-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-backpacking-vacation-planning-adventure-flaticons-lineal-color-flat-icons.png" alt="external-backpacking-vacation-planning-adventure-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-bike-winery-flaticons-lineal-color-flat-icons.png" alt="external-bike-winery-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-cat-animal-justicon-lineal-color-justicon.png" alt="external-cat-animal-justicon-lineal-color-justicon"/>
 
 ### 📫 Pour me joindre
-📧 <a href="mailto:eva.bouts@orange.fr">eva.bouts@orange.fr</a>
-🔔 [Instagram](https://www.instagram.com/evapoint_/)
+<a href="https://www.linkedin.com/in/eva-bouts-747558150/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-### 📊 My stats
+### 📊 Mes stats
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=EvaBouts&hide=stars&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
@@ -32,23 +24,15 @@ I'm Eva, a new member of the developers community !
 Currently studying Web development with an accessibility specialisation, I will graduate in September 2024.
 
 ### 🌱 I’m currently learning
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Node.js
-- React
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 
 ### ⚡ About me
-**Former publisher** in a big french publishing house, I decided to switch paths to **become a Web developper**. The aim is to become as good in coding websites as I was in editing texts !
+**Former publisher** in a big french publishing house, I decided to switch paths to **become a Web developper**.
 
 ### 📚 Interests
-- Board and video games
-- Reading (classic and pop literature)
-- Hiking and bike riding
+<img width="64" height="64" src="https://img.icons8.com/arcade/64/books.png" alt="books"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-board-games-stay-at-home-flaticons-flat-flat-icons.png" alt="external-board-games-stay-at-home-flaticons-flat-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-video-games-stay-at-home-flaticons-flat-flat-icons.png" alt="external-video-games-stay-at-home-flaticons-flat-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-backpacking-vacation-planning-adventure-flaticons-lineal-color-flat-icons.png" alt="external-backpacking-vacation-planning-adventure-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-bike-winery-flaticons-lineal-color-flat-icons.png" alt="external-bike-winery-flaticons-lineal-color-flat-icons"/> <img width="64" height="64" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-cat-animal-justicon-lineal-color-justicon.png" alt="external-cat-animal-justicon-lineal-color-justicon"/>
 
 ### 📫 How to reach me
-📧 <a href="mailto:eva.bouts@orange.fr">eva.bouts@orange.fr</a>
-🔔 [Instagram](https://www.instagram.com/evapoint_/)
+<a href="https://www.linkedin.com/in/eva-bouts-747558150/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </details>
 
