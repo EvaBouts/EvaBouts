@@ -18,7 +18,7 @@ J'étais **éditrice** dans une grande maison d'édition, et puis j'ai décidé 
 <a href="https://www.linkedin.com/in/eva-bouts-747558150/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 📊 Mes stats
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=EvaBouts&hide=stars&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de EvaBouts](https://github-readme-stats.vercel.app/api?username=EvaBouts&hide=stars&theme=gotham)](https://github.com/evabouts/github-readme-stats)
 
 <details>
   <summary><b>:globe_with_meridians: &nbsp;In English</b></summary>
